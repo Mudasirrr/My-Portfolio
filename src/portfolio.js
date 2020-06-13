@@ -189,7 +189,8 @@ const skills = {
         "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS"
       ],
 
-      softwareSkills: [{
+      softwareSkills:[
+        {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
           style: {
@@ -202,7 +203,7 @@ const skills = {
           style: {
             color: "#0089D6"
           }
-        },,
+        },
         {
           skillName: "PostgreSQL",
           fontAwesomeClassname: "simple-icons:postgresql",
