@@ -1,0 +1,15 @@
+.footer-text {
+  text-align: center;
+  color: #868e96;
+  font-size: xx-large;
+  font-weight: 200;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: initial;
+  background-color: rgb(86, 54, 112);
+  font-family: "Google Sans Regular";
+  font-feature-settings: "vrt2";
+}
+
+.footer-div {
+  margin-top: 2rem;
+}
