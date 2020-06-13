@@ -3,7 +3,7 @@
         [
             {
                 "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-                "name":"Covid-19-Tracking  App",
+                "name":"Covid-19-Tracking  Application",
                 "createdAt":"2020-06-9T16:26:54Z",
                 "url":"https://github.com/Mudasirrr/Covid-19-Tracker",
                 "description":"The complete  website hosted using github action and Surge. Visit the website here : ",
@@ -11,18 +11,19 @@
                 {"name":"CSS",
                 "iconifyClass":"logos-css-3"},
                 {"name":"JavaScript",
-                "iconifyClass":"logos-javascript"}]},
+                "iconifyClass":"logos-javascript"}]}
+                ,
                 {
-                    "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-                    "name":"My Personal Portfolio",
-                    "createdAt":"2020-06-12T16:26:54Z",
-                    "url":"https://github.com/Mudasirrr/My-Portfolio",
-                    "description":"The complete  website hosted using github action,page and Surge. Visit the website here : ",
-                    "isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},
-                    {"name":"CSS",
-                    "iconifyClass":"logos-css-3"},
-                    {"name":"JavaScript",
-                    "iconifyClass":"logos-javascript"}]}
+                "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+                "name":"My Personal Portfolio",
+                "createdAt":"2020-06-12T16:26:54Z",
+                "url":"https://github.com/Mudasirrr/My-Portfolio",
+                "description":"The complete  website hosted using github action,page and Surge. Visit the website here : ",
+                "isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},
+                {"name":"CSS",
+                "iconifyClass":"logos-css-3"},
+                {"name":"JavaScript",
+                "iconifyClass":"logos-javascript"}]}
             
         
   ]
